@@ -4,6 +4,9 @@
 
 ---
 
+## 🌐 Live Demo
+👉 [Click here to try the app](https://financialfraud-detection-uwnyexdan7jybczwqxnrdg.streamlit.app
+
 ## 📌 Problem Statement
 
 Financial fraud is a critical real-world problem. This project builds a machine learning model to automatically detect fraudulent transactions from over **6.3 million records**, where only **0.13%** are actual fraud — making it a classic imbalanced classification challenge.
