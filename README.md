@@ -218,7 +218,5 @@ jupyter
 
 **Aditya Mishra**
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-
 ---
 
